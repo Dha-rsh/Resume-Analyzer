@@ -1,0 +1,8 @@
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\controller\AnalyzeServlet.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\controller\CORSFilter.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\model\ResumeResult.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\service\AIService.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\service\ResumeService.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\util\DocExtractor.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\util\DocxExtractor.java
+C:\apache-tomcat-10.1.43\webapps\resumeAnalyzer\src\resumeanalyzer\util\PdfExtractor.java

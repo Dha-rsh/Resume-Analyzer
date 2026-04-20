@@ -1,0 +1,11 @@
+frontend/node_modules/
+
+backend/WEB-INF/classes/
+backend/WEB-INF/lib/
+backend/WEB-INF/files/
+*.class
+*.jar
+
+
+
+
