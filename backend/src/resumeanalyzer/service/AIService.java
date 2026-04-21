@@ -12,7 +12,7 @@ import resumeanalyzer.model.ResumeResult;
 public class AIService {
 
    
-    private static final String API_KEY = "AIzaSyDDAUa7GZ6HuJ6JMr20u3H2TSw9qhP4Ijc";
+    private static final String API_KEY = "Google Api Key";
 
     public String analyze(String txt,String jobDesc) {
         try {
